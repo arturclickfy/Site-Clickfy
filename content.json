@@ -1,0 +1,211 @@
+{
+  "whatsapp": "5554981254077",
+  "instagram": "https://www.instagram.com/clickfy.caminhoes/",
+  "founderInstagram": "https://www.instagram.com/eusouarturr/",
+  "clients": [
+    {
+      "name": "Estradão Sul",
+      "logo": "assets/cliente-estradao-sul.webp",
+      "logoView": [
+        0.05,
+        0.23,
+        0.9,
+        0.5
+      ],
+      "logoAspect": 1.0,
+      "background": "#000000",
+      "url": ""
+    },
+    {
+      "name": "Manu’s Car Caminhões",
+      "logo": "assets/cliente-manus-car.webp",
+      "logoView": [
+        0.11,
+        0.255,
+        0.78,
+        0.31
+      ],
+      "logoAspect": 0.5581395348837209,
+      "background": "#2c2c2c",
+      "url": ""
+    },
+    {
+      "name": "Top Caminhões e Utilitários",
+      "logo": "assets/cliente-top-caminhoes.webp",
+      "logoView": [
+        0.09,
+        0.325,
+        0.82,
+        0.218
+      ],
+      "logoAspect": 0.5581395348837209,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "Porto Veículos",
+      "logo": "assets/cliente-porto-veiculos.webp",
+      "logoView": [
+        0.08,
+        0.255,
+        0.84,
+        0.29
+      ],
+      "logoAspect": 0.5626373626373626,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "Universo AGV",
+      "logo": "assets/cliente-universo-agv.webp",
+      "logoView": [
+        0.06,
+        0.25,
+        0.88,
+        0.5
+      ],
+      "logoAspect": 1.0,
+      "background": "#005980",
+      "url": ""
+    },
+    {
+      "name": "Transportes Cristo Vencedor",
+      "logo": "assets/cliente-cristo-vencedor.webp",
+      "logoView": [
+        0.2,
+        0.17,
+        0.61,
+        0.65
+      ],
+      "logoAspect": 1.5,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "A Casa da Pick-up",
+      "logo": "assets/cliente-casa-pickup.webp",
+      "logoView": [
+        0.28,
+        0.37,
+        0.46,
+        0.2
+      ],
+      "logoAspect": 0.5626373626373626,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "Nathalia Cardoso",
+      "logo": "assets/cliente-nathalia-cardoso.webp",
+      "logoView": [
+        0.14,
+        0.17,
+        0.72,
+        0.57
+      ],
+      "logoAspect": 1.5,
+      "background": "#0b0b0b",
+      "url": ""
+    },
+    {
+      "name": "Didoné Consórcios",
+      "logo": "assets/cliente-didone-consorcios.webp",
+      "logoView": [
+        0.04,
+        0.33,
+        0.92,
+        0.34
+      ],
+      "logoAspect": 1.0,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "JB Controle de Pragas",
+      "logo": "assets/cliente-jb-pragas.webp",
+      "logoView": [
+        0.14,
+        0.29,
+        0.73,
+        0.43
+      ],
+      "logoAspect": 1.0,
+      "background": "#29336f",
+      "url": ""
+    },
+    {
+      "name": "Dallagnol Caminhões",
+      "logo": "assets/cliente-dallagnol.webp",
+      "logoView": [
+        0.045,
+        0.27,
+        0.91,
+        0.42
+      ],
+      "logoAspect": 1.0,
+      "background": "#ffffff",
+      "url": ""
+    },
+    {
+      "name": "NL Arquitetura e Engenharia",
+      "logo": "assets/cliente-nl-arquitetura.webp",
+      "logoView": [
+        0.19,
+        0.36,
+        0.64,
+        0.31
+      ],
+      "logoAspect": 1.0,
+      "background": "#000000",
+      "url": ""
+    },
+    {
+      "name": "Jogga",
+      "logo": "assets/cliente-jogga.webp",
+      "logoView": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "logoAspect": 2.2815964523281598,
+      "background": "#171a15",
+      "url": ""
+    },
+    {
+      "name": "Calvario",
+      "logo": "assets/cliente-calvario.webp",
+      "logoView": [
+        0.09,
+        0.39,
+        0.82,
+        0.22
+      ],
+      "logoAspect": 1.0,
+      "background": "#050505",
+      "url": ""
+    }
+  ],
+  "cases": [
+    {
+      "title": "Tráfego e estratégia para uma revenda de caminhões.",
+      "category": "CASE DE MARKETING · CAMINHÕES",
+      "image": "assets/case-revenda.jpg",
+      "description": "Um dos trabalhos que compartilhamos: a estratégia de marketing por trás das oportunidades e vendas de uma revenda.",
+      "url": "https://www.instagram.com/clickfy.caminhoes/p/DVbacRrABCE/"
+    },
+    {
+      "title": "O caminho de um anúncio até uma negociação.",
+      "category": "CASE DE MARKETING · TRÁFEGO PAGO",
+      "image": "assets/case-anuncio.jpg",
+      "description": "Investimento, oportunidades e contexto. Veja a explicação de um caso publicado pela Clickfy, com os detalhes do trabalho realizado.",
+      "url": "https://www.instagram.com/clickfy.caminhoes/p/DU0kTEtjuPw/"
+    }
+  ],
+  "videos": [],
+  "heavySector": {
+    "salesGenerated": 80000000,
+    "currency": "BRL",
+    "source": "Valor informado pelo proprietário da Clickfy nesta conversa."
+  }
+}
